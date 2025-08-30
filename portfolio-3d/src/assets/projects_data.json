@@ -1,0 +1,163 @@
+[
+    {
+        "category": "Interiores",
+        "images": [
+            "/home/ubuntu/upload/A01.png",
+            "/home/ubuntu/upload/A02.png",
+            "/home/ubuntu/upload/A03.png",
+            "/home/ubuntu/upload/A04.png"
+        ],
+        "title": "Loja de J\u00f3ias: Design de Interiores Luxuoso"
+    },
+    {
+        "category": "Interiores",
+        "images": [
+            "/home/ubuntu/upload/B01.png"
+        ],
+        "title": "Sala de Estar Aconchegante com Lareira"
+    },
+    {
+        "category": "Interiores",
+        "images": [
+            "/home/ubuntu/upload/C01.png"
+        ],
+        "title": "Sala de Estar Moderna e Funcional"
+    },
+    {
+        "category": "Interiores",
+        "images": [
+            "/home/ubuntu/upload/D01.png",
+            "/home/ubuntu/upload/D01.png"
+        ],
+        "title": "Escrit\u00f3rio de Atendimento: Espa\u00e7o Profissional e Acolhedor"
+    },
+    {
+        "category": "Interiores",
+        "images": [
+            "/home/ubuntu/upload/E01.png",
+            "/home/ubuntu/upload/E02.png",
+            "/home/ubuntu/upload/E03.png"
+        ],
+        "title": "Quarto com M\u00f3veis Planejados: Otimiza\u00e7\u00e3o e Conforto"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/F01.png",
+            "/home/ubuntu/upload/F02.png"
+        ],
+        "title": "Casa com P\u00e9 Direito Duplo: Amplitude e Sofistica\u00e7\u00e3o"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/G01.png"
+        ],
+        "title": "\u00c1rea de Lazer com Piscina: Ref\u00fagio Urbano"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/H01.jpg"
+        ],
+        "title": "Casa com P\u00e9 Direito Duplo: Arquitetura Imponente"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/I01.png",
+            "/home/ubuntu/upload/I02.png",
+            "/home/ubuntu/upload/I03.png"
+        ],
+        "title": "Casa Contempor\u00e2nea: Linhas Limpas e Design Moderno"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/J01.png",
+            "/home/ubuntu/upload/J02.jpg",
+            "/home/ubuntu/upload/J03.png"
+        ],
+        "title": "Casa Contempor\u00e2nea com P\u00e9 Direito Duplo: Eleg\u00e2ncia e Espa\u00e7o"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/K01.png",
+            "/home/ubuntu/upload/K02.png"
+        ],
+        "title": "Casa Contempor\u00e2nea Elegante com P\u00e9 Direito Duplo: Luxo e Conforto"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/L01.png",
+            "/home/ubuntu/upload/L02.png"
+        ],
+        "title": "Casa Tradicional Elegante de Esquina: Charme e Requinte"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/M01.png",
+            "/home/ubuntu/upload/M02.png",
+            "/home/ubuntu/upload/M03.png"
+        ],
+        "title": "Casa Contempor\u00e2nea com P\u00e9 Direito Duplo: Integra\u00e7\u00e3o e Estilo"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/N01.png",
+            "/home/ubuntu/upload/N02.png"
+        ],
+        "title": "Casa Contempor\u00e2nea com P\u00e9 Direito Duplo: Ilumina\u00e7\u00e3o Natural e Design"
+    },
+    {
+        "category": "Interiores",
+        "images": [
+            "/home/ubuntu/upload/O01.png",
+            "/home/ubuntu/upload/O02.png"
+        ],
+        "title": "Quarto com M\u00f3veis Planejados Minimalista: Funcionalidade e Simplicidade"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/P01.png",
+            "/home/ubuntu/upload/P02.png",
+            "/home/ubuntu/upload/P03.png"
+        ],
+        "title": "Casa Contempor\u00e2nea: Harmonia e Conforto"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/Q01.png",
+            "/home/ubuntu/upload/Q02.png",
+            "/home/ubuntu/upload/Q03.png"
+        ],
+        "title": "Geminado de 2 Casas com P\u00e9 Direito Duplo: Solu\u00e7\u00f5es Modernas para Fam\u00edlias"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/R01.png"
+        ],
+        "title": "Casa Tradicional: Atemporalidade e Aconchego"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/S01.png"
+        ],
+        "title": "4 Lofts: Design Urbano e Vers\u00e1til"
+    },
+    {
+        "category": "Exteriores",
+        "images": [
+            "/home/ubuntu/upload/T01.png"
+        ],
+        "title": "Casa Tradicional: Conforto e Tradi\u00e7\u00e3o"
+    }
+]
